@@ -1,0 +1,15 @@
+numpy
+scipy
+nose
+ipython
+tensorflow
+./interconnect
+# The following are just for editing and LINT checking (can be uncommented if not wanted)
+ipython
+pylint
+black
+flake8
+nose
+jedi==0.17.2
+matplotlib
+prettytable
